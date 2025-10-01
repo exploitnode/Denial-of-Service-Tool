@@ -48,13 +48,14 @@ This tool was primarily designed and tested on **Windows** platforms, however it
   - Strong (500 threads) 
   - Ultra (1000 threads)
 
+## Donations
+Support ongoing development with donations:  
+
+💰 **Ethereum wallet:** `0x4520bEd2BC14389646B9c22b7A2D5d095C168d12` 💰
+
+
 ## 📋 Prerequisites
 
 ```bash
 # Required Python packages
 pip install colorama
-
-## Donations
-Support ongoing development with donations:  
-
-💰 **Ethereum wallet:** `0x4520bEd2BC14389646B9c22b7A2D5d095C168d12` 💰
