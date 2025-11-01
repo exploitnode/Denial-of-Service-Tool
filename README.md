@@ -51,7 +51,7 @@ This tool was primarily designed and tested on **Windows** platforms, however it
 ## Donations
 Support ongoing development with donations:  
 
-💰 **Ethereum wallet:** `0x4520bEd2BC14389646B9c22b7A2D5d095C168d12` 💰
+💰 **Ethereum wallet:** `0x5dFB04ADe7beFaCB2Ed8cfBdcF2326Cc5eA056c8` 💰
 
 
 ## 📋 Prerequisites
